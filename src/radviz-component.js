@@ -1,3 +1,6 @@
+import utils from 'utils';
+import tooltipComponent from 'tooltop-component';
+
 var radvizComponent = function() {
     var config = {
         el: null,
@@ -264,3 +267,5 @@ var radvizComponent = function() {
 
     return exports;
 };
+
+export default radvizComponent;

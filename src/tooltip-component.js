@@ -1,3 +1,5 @@
+import utils from 'component-utils';
+
 var tooltipComponent = function(tooltipNode) {
 
     var root = d3.select(tooltipNode)
@@ -37,3 +39,5 @@ var tooltipComponent = function(tooltipNode) {
         hide: hide
     };
 };
+
+export default tooltipComponent;

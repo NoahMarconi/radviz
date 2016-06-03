@@ -1,0 +1,22 @@
+{
+  "name": "radviz",
+  "version": "1.0.0",
+  "description": "wrapped fork of https://github.com/biovisualize/radviz",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahMarconi/radviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahMarconi/radviz/issues"
+  },
+  "homepage": "https://github.com/NoahMarconi/radviz#readme"
+}
